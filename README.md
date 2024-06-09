@@ -52,8 +52,8 @@ Quer fazer parte desta aventura? Veja como você pode contribuir:
 
 Tem dúvidas, sugestões ou só quer bater um papo? Entre em contato:
 
-- **Email**: [seu-email@exemplo.com](mailto:edsonkelvindev.com)
-- **GitHub**: [Seu Perfil](https://github.com/edsonkelvindev)
+- **Email**: [Contato](mailto:edsonkelvindev.com)
+- **GitHub**: [Meu Perfil](https://github.com/edsonkelvindev)
 
 ---
 
